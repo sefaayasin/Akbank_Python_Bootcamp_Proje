@@ -1,0 +1,41 @@
+HOÞGELDÝNÝZ. 
+ 
+Lütfen bir pizza seçin: 
+1: Margarita 
+2: Sucuklu 
+3: Salamlý 
+4: Sosisli 
+5: Mantarlý 
+6: Akdeniz 
+7: Egeli 
+8: Chicken 
+9: Kumru 
+10: Mangal Zamaný 
+11: Ýtalyan Aþký 
+12: Karýþýk 
+13: Meksikalý 
+14: Peynirsever 
+15: Yakamoz 
+ 
+Lütfen pizza boyutu seçin: 
+1: Küçük (89 TL) 
+2: Orta (99 TL) 
+3: Büyük (109 TL) 
+ 
+Ek malzeme seçiniz: 
+1: Siyah Zeytin: +5.90 
+2: Mantar: +5.90 
+3: Mýsýr: +5.90 
+4: Yeþil Biber: +5.90 
+5: Soðan: +5.90 
+6: Domates: +5.90 
+7: Meksika Biberi: +5.90 
+8: Beyaz Peynir: +6.90 
+9: Hellim Peyniri: +6.90 
+10: Mozzarella: +6.90 
+11: Sucuk: +7.90 
+12: Salam: +7.90 
+13: Sosis: +7.90 
+14: Pastýrma: +7.90 
+15: Tavuk: +7.90 
+16: Ekstra Malzeme Ýstemiyorum

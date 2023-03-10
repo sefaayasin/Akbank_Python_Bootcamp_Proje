@@ -1,0 +1,12 @@
+1) Pizza Türünü Seçin
+2) Pizza Boyutunu Seçin
+3) Ekstra Malzemeleri Seçin
+4) "Toplam Tutar"ı Hesaplayın
+
+Bu kısımdan itibaren kutucukların içerisine bilgi girmeden önce kutucuklara tıklayarak yazıları kaldırın.
+
+5) Müşteri Adını Girin
+6) Müşteri Numarasını Girin
+7) Kredi Kartı Numarasını Girin
+8) Kredi Kartı Şifresini Girin
+9) "Gönder"e Basın
